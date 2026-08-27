@@ -1,6 +1,6 @@
 # Hi, I'm Selda 👋
 
-Software Engineer
+Computer Engineer
 
 ## Languages & Technologies
 
