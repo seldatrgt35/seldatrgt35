@@ -7,17 +7,17 @@ Computer Engineer
 
  
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&olor=white
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+(https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpluspluslor=white
 
-tps://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logogoColor=white
 
-//img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=eact Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=oColor=black
 
-img.shields.io/badge/Linux-FCC624?style=for-the-badge&x&logoColor=black
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=oColor=white
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor# Connect with me
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=oColor=black
 
  
 
