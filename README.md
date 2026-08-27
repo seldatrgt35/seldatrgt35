@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Selda 👋
+ 
+Computer Engineer
 
-<!--
-**seldatrgt35/seldatrgt35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+### Languages & Technologies
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&olor=white
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+tps://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+//img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=eact Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+img.shields.io/badge/Linux-FCC624?style=for-the-badge&x&logoColor=black
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor# Connect with me
+
+ 
+
+[LinkedIn](https://www.linkedin.com/in/selda-turgut-12686928a/)
